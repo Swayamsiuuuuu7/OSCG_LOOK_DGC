@@ -166,27 +166,23 @@ Launch-LOOK-DGC.bat
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="demo-ss/0_general.png" alt="General Tools" width="800"/>
+  <img src="demo-ss/0_gen.png" alt="General Tools" width="800"/>
   <br><b>📋 General Tools</b>: Original Image, File Digest, Hex Editor, Similar Search
 </p>
 
-<p align="center">
-  <img src="demo-ss/1_metadata.png" alt="Metadata Analysis" width="800"/>
-  <br><b>📊 Metadata Analysis</b>: EXIF Data, Header Structure, Geolocation
-</p>
 
 <p align="center">
-  <img src="demo-ss/2_inspection.png" alt="Visual Inspection" width="800"/>
+  <img src="demo-ss/2_ins.png" alt="Visual Inspection" width="800"/>
   <br><b>🔬 Visual Inspection</b>: Magnifier, Histogram, Reference Comparison
 </p>
 
 <p align="center">
-  <img src="demo-ss/3_detail.png" alt="Detail Analysis" width="800"/>
+  <img src="demo-ss/3_detai.png" alt="Detail Analysis" width="800"/>
   <br><b>🎯 Detail Analysis</b>: Gradient, Edge Filter, Wavelet, Frequency Split
 </p>
 
 <p align="center">
-  <img src="demo-ss/4_colors.png" alt="Color Analysis" width="800"/>
+  <img src="demo-ss/4_clour.png" alt="Color Analysis" width="800"/>
   <br><b>🎨 Color Analysis</b>: RGB/HSV Plots, Space Conversion, PCA, Statistics
 </p>
 
@@ -201,7 +197,7 @@ Launch-LOOK-DGC.bat
 </p>
 
 <p align="center">
-  <img src="demo-ss/7_tampering.png" alt="Tampering Detection" width="800"/>
+  <img src="demo-ss/7_tampe.png" alt="Tampering Detection" width="800"/>
   <br><b>⚠️ Tampering Detection</b>: Copy-Move, Splicing, Resampling, Filtering
 </p>
 
